@@ -106,7 +106,7 @@ def add_train_args(parser):
 
 def add_eval_args(parser):
     parser.add_argument(
-        "--eval", action="store_true"                # 评估
+        "--eval", action="store_true"                #评估
     )
     parser.add_argument(
         "--etype", type=str,
