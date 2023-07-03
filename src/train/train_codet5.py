@@ -126,7 +126,7 @@ def train_codet5(args):
     exec_match = scores['all']['exec']
 
 
-    # Checkpoint selection
+    # Checkpoint selection 检查点选择
     if (
         exact_match > best_dev_em or
         (exact_match == best_dev_em and exec_match > best_dev_ex)
