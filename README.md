@@ -1,6 +1,6 @@
 # Auto-SQL-Correction
 Code, data, and model for the ACL 2023 paper [Text-to-SQL Error Correction with Language Models of Code](https://arxiv.org/abs/2305.13073).
-
+该项目保存来源于上述文章提供的代码
 
 **Note:**
 Although the raw codes for all experiments are released, we are actively cleaning and reorganizing the repository, so some temporary issues may occur till we finalize it. Please check the following TODO list for our progress: 
