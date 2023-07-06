@@ -1,5 +1,5 @@
 # Auto-SQL-Correction
-Code, data, and model for our ACL 2023 paper [Text-to-SQL Error Correction with Language Models of Code](https://arxiv.org/abs/2305.13073).
+Code, data, and model for the ACL 2023 paper [Text-to-SQL Error Correction with Language Models of Code](https://arxiv.org/abs/2305.13073).
 
 
 **Note:**
